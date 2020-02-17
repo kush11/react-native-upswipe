@@ -5,8 +5,7 @@
 > Beautiful Card Swiper to React Native 
 
 ### Examples
-![screen capture](https://github.com/kush11/react-native-upswipe/tree/master/assets/swipeup.gif?raw=true)
-<a href="https://github.com/kush11/react-native-upswipe/tree/master/assets/swipeup.gif"><img src="https://github.com/kush11/react-native-upswipe/tree/master/assets/swipeup.gif" title="react-native-swipeup"/></a>
+<a href="https://res.cloudinary.com/kush636/image/upload/v1581925084/upswipe.gif"><img src="https://res.cloudinary.com/kush636/image/upload/v1581925084/upswipe.gif" title="react-native-swipeup"/></a>
 ### Installation
 
 **Yarn**
