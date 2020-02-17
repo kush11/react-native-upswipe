@@ -6,7 +6,7 @@
 
 ### Examples
 ![screen capture](https://github.com/kush11/react-native-upswipe/tree/master/assets/swipeup.gif?raw=true)
-
+<a href="https://github.com/kush11/react-native-upswipe/tree/master/assets/swipeup.gif"><img src="https://github.com/kush11/react-native-upswipe/tree/master/assets/swipeup.gif" title="react-native-swipeup"/></a>
 ### Installation
 
 **Yarn**
