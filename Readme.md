@@ -1,4 +1,4 @@
-# react-native-upswipe
+# react-native-swipeup
 
 [![NPM version](https://badge.fury.io/js/react-native-backgroud-shapes.svg)](https://npmjs.org/package/react-native-backgroud-shapes) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://raw.githubusercontent.com/kevoj/react-native-backgroud-shapes/master/LICENSE)
 
@@ -12,13 +12,13 @@
 **Yarn**
 
 ```bash
-yarn add react-native-upswipe
+yarn add react-native-swipeup
 ```
 
 **Npm**
 
 ```bash
-npm i  react-native-upswipe
+npm i  react-native-swipeup
 ```
 
 ### Usage
@@ -26,7 +26,7 @@ npm i  react-native-upswipe
 ```javascript
 import React, {PureComponent} from 'react';
 import {View, Text, StyleSheet} from 'react-native';
-import Upswipe from 'react-native-upswipe';
+import Upswipe from 'react-native-swipeup';
 
 class App extends PureComponent {
   constructor(props) {
@@ -106,4 +106,4 @@ export default App;
 
 ## License
 
-MIT © [Kush Kumar](https://github.com/kush11/react-native-upswipe.git)
+MIT © [Kush Kumar](https://github.com/kush11/react-native-swipeup.git)

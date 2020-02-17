@@ -1,7 +1,7 @@
 {
-  "name": "react-native-upswipe",
+  "name": "react-native-swipeup",
   "version": "1.0.1",
-  "description": "react-native-upswipe like inshot app",
+  "description": "react-native-swipeup like inshot app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,10 @@
     "url": "git+https://github.com/kush11/react-native-upswipe.git"
   },
   "keywords": [
-    "react-native-upswipe",
+    "react-native-swipeup",
     "react-native-inshot",
-    "react-native-inshot-upswipe"
+    "react-native-inshot-upswipe",
+    "react-native-upswipe"
   ],
   "author": "Kush Kumar",
   "license": "ISC",
